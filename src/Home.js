@@ -156,9 +156,9 @@ function Home() {
       <div className="footerwrap">
         <p className="foottxt">
           {" "}
-          Designed and developed by Mr.Saumya Garg- All Rights Reserved ©2021{" "}
+          Designed and developed by Mr.Amit Kumar- All Rights Reserved ©2021{" "}
         </p>
-        <a href="https://www.instagram.com/garg.saumya20/" className="social">
+        <a href="https://www.instagram.com/amit21august/" className="social">
           {" "}
           <InstagramIcon className="insta" />
         </a>

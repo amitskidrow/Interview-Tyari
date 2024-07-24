@@ -15,12 +15,12 @@ export default function Profile() {
           className="avatar"
         />
         <div className="user-info">
-          <h2>Saumya Garg</h2>
+          <h2>Amit Kumar</h2>
           <h5>
-            <span style={style}>Username: </span>garg.saumya20
+            <span style={style}>Username: </span>amit21august
           </h5>
           <h5>
-            <span style={style}>Email: </span> garg.saumya20@gmail.com
+            <span style={style}>Email: </span> amitskidrow@gmail.com
           </h5>
           <h5>
             <span style={style}>Institute: </span>Invertis University, Bareilly

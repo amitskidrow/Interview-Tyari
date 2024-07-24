@@ -38,7 +38,7 @@ function Leaderboard() {
           </thead>
           <tbody>
             <Link to="/profile">
-              <td className="clrt">@garg.saumya20</td>
+              <td className="clrt">@amit21august</td>
             </Link>
             <td className="clrt">2</td>
             <td className="clrt">50</td>

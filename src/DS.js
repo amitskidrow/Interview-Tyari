@@ -75,7 +75,7 @@ function DS(props) {
         <div className="footerwrap">
           <p className="foottxt">
             {" "}
-            Designed and developed by Mr.Saumya Garg- All Rights Reserved ©2021{" "}
+            Designed and developed by Mr.Amit Kumar- All Rights Reserved ©2021{" "}
           </p>
         </div>
       </div>

@@ -12,15 +12,15 @@ export default function Contact() {
         <div className="cfooterwrap">
           <p className="cfoottxt">
             {" "}
-            Designed and developed by Mr.Saumya Garg- All Rights Reserved ©2021{" "}
+            Designed and developed by Mr.Amit Kumar- All Rights Reserved ©2021{" "}
           </p>
-          <a href="https://www.instagram.com/garg.saumya20/" className="social">
+          <a href="https://www.instagram.com/amit21august/" className="social">
             {" "}
             <InstagramIcon className="cinsta" />
           </a>
           <LinkedInIcon className="clinkedin" />
           <GitHubIcon className="cgithub" />
-          <a href="mailto:garg.saumya20@gmail.com">
+          <a href="mailto:amitskidrow@gmail.com">
             {" "}
             <MailIcon className="mail" />
           </a>
